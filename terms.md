@@ -1,8 +1,8 @@
 # Bathroom Finder Terms of Service
 
-Effective date: 11-16-2026
+Effective date: 11-17-2026
 
-These terms govern your use of the Bathroom Finder app provided by Joseph Favor ("we"). By using the app you agree to these terms. Contact us at [SUPPORT EMAIL].
+These terms govern your use of the Bathroom Finder app provided by Joseph Favor ("we"). By using the app you agree to these terms. Contact us at cleanbathroomfinder@gmail.com.
 
 ## What the app provides
 
@@ -24,7 +24,7 @@ Do not post content that is unlawful, threatening, harassing, hateful, discrimin
 
 ## Reporting and moderation
 
-You can report reviews that break these terms, or block users whose reviews you don't want to see, using the options menu on the review. A review reported by several users is automatically hidden while we review it. We review reports and may remove content or suspend or terminate accounts that break these terms. We aim to act on reports within [RESPONSE TIME, for example 24 hours].
+You can report reviews that break these terms, or block users whose reviews you don't want to see, using the options menu on the review. A review reported by several users is automatically hidden while we review it. We review reports and may remove content or suspend or terminate accounts that break these terms. We aim to act on reports within 24 hours.
 
 ## Acceptable use
 
