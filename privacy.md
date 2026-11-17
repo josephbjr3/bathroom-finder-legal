@@ -2,8 +2,6 @@
 
 Effective date: 11-16-2026
 
-
-
 This policy explains how Joseph Favor ("we") handles information in the Bathroom Finder mobile app. Contact us at [SUPPORT EMAIL] with questions or requests.
 
 ## Information we collect
@@ -44,7 +42,7 @@ We keep your account, profile, reviews, photos, reports, feedback, and blocked l
 
 You can delete your account in the app at any time: open the menu, choose Settings, then Delete account. This permanently deletes your profile and profile photo, your reviews and review photos (including reports made about them), reports and feedback you submitted, your blocked list and report counts, and your sign-in account. If you signed in with Apple, the app also revokes the app's access to your Apple ID. Deletion cannot be undone.
 
-If you cannot sign in, email [SUPPORT EMAIL] from the address on your account to request deletion. You can also follow the steps at [DELETE ACCOUNT PAGE URL].
+If you cannot sign in, email [SUPPORT EMAIL] from the address on your account to request deletion. You can also follow the steps at https://josephbjr3.github.io/bathroom-finder-legal/delete-account.
 
 ## Your choices
 
