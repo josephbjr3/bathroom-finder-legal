@@ -12,7 +12,7 @@ If it has been a while since you signed in, the app may ask you to sign out and 
 
 ## If you can't sign in
 
-Email [SUPPORT EMAIL] from the email address on your account, with the subject "Delete my account". We will delete your account within 30 days and confirm by email.
+Email cleanbathroomfinder@gmail.com from the email address on your account, with the subject "Delete my account". We will delete your account within 30 days and confirm by email.
 
 ## What is deleted
 
