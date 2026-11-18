@@ -1,8 +1,8 @@
-# Bathroom Finder Privacy Policy
+# Clean Bathroom Finder Privacy Policy
 
 Effective date: 11-17-2026
 
-This policy explains how Joseph Favor ("we") handles information in the Bathroom Finder mobile app. Contact us at cleanbathroomfinder@gmail.com with questions or requests.
+This policy explains how Joseph Favor ("we") handles information in the Clean Bathroom Finder mobile app. Contact us at cleanbathroomfinder@gmail.com with questions or requests.
 
 ## Information we collect
 
