@@ -1,12 +1,12 @@
-# Bathroom Finder Terms of Service
+# Clean Bathroom Finder Terms of Service
 
 Effective date: 11-17-2026
 
-These terms govern your use of the Bathroom Finder app provided by Joseph Favor ("we"). By using the app you agree to these terms. Contact us at cleanbathroomfinder@gmail.com.
+These terms govern your use of the Clean Bathroom Finder app provided by Joseph Favor ("we"). By using the app you agree to these terms. Contact us at cleanbathroomfinder@gmail.com.
 
 ## What the app provides
 
-Bathroom Finder shows nearby businesses on a map and lets users share restroom ratings, written reviews, and photos. The app is not affiliated with Google, Apple, or the businesses shown.
+Clean Bathroom Finder shows nearby businesses on a map and lets users share restroom ratings, written reviews, and photos. The app is not affiliated with Google, Apple, or the businesses shown.
 
 ## No restroom or cleanliness guarantee
 
