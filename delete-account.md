@@ -1,10 +1,10 @@
-# Delete Your Bathroom Finder Account
+# Delete Your Clean Bathroom Finder Account
 
-You can delete your Bathroom Finder account and its data at any time.
+You can delete your Clean Bathroom Finder account and its data at any time.
 
 ## Delete in the app
 
-1. Open Bathroom Finder and sign in.
+1. Open Clean Bathroom Finder and sign in.
 2. Open the menu and choose Settings.
 3. Tap Delete account and confirm.
 
